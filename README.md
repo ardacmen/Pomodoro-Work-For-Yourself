@@ -3,10 +3,10 @@
 
 
 <p float="left">
-<img src='images/Ekran%20Goruntusu-01%20copy.jpg' width='241'>
-<img src='images/Ekran%20Goruntusu-02%20copy.jpg' width='241'>
-<img src='images/Ekran%20Goruntusu-03%20copy.jpg' width='241'>
-<img src='images/Ekran%20Goruntusu-04%20copy.jpg' width='241'>
+<img src='images/Ekran%20Goruntusu-01%20copy.jpg' width='200'>
+<img src='images/Ekran%20Goruntusu-02%20copy.jpg' width='200'>
+<img src='images/Ekran%20Goruntusu-03%20copy.jpg' width='200'>
+<img src='images/Ekran%20Goruntusu-04%20copy.jpg' width='200'>
 </p>
 
 # What i learned?
